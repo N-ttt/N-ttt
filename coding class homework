@@ -1,0 +1,7 @@
+void main() {
+  int L = 50;
+  int B = 40;
+  int H = 300;
+  print("The area is ${L * B + B * H}");
+  print("The volume is ${L * B * H} ");
+}
